@@ -7,7 +7,7 @@
 	url = ../fedem-foundation.git
 [submodule "SAM"]
 	path = SAM
-	url = ../sam-lib.git
+	url = ../fedem-sam-lib.git
 [submodule "solverTests"]
 	path = solverTests
 	url = ../fedem-solver-tests.git
